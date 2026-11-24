@@ -242,7 +242,7 @@
   .hidden {
     display: none;
   }
-  .aspect-\[120\/152\] {
+  .aspect-120\/152 {
     aspect-ratio: 120/152;
   }
   .h-2 {
@@ -280,9 +280,6 @@
   }
   .h-112 {
     height: calc(var(--spacing) * 112);
-  }
-  .h-auto {
-    height: auto;
   }
   .h-full {
     height: 100%;
@@ -585,16 +582,16 @@
     .md\:my-9 {
       margin-block: calc(var(--spacing) * 9);
     }
-    .md\:aspect-\[1520\/352\] {
+    .md\:aspect-1520\/352 {
       aspect-ratio: 1520/352;
     }
-    .md\:aspect-\[1520\/520\] {
+    .md\:aspect-1520\/520 {
       aspect-ratio: 1520/520;
     }
-    .md\:aspect-\[1520\/740\] {
+    .md\:aspect-1520\/740 {
       aspect-ratio: 1520/740;
     }
-    .md\:aspect-\[1520\/872\] {
+    .md\:aspect-1520\/872 {
       aspect-ratio: 1520/872;
     }
     .md\:h-6 {
